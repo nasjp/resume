@@ -1,0 +1,21 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "職務経歴書",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasjp/curriculum-vitae.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasjp/curriculum-vitae/issues"
+  },
+  "homepage": "https://github.com/nasjp/curriculum-vitae#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "md-to-pdf": "^2.8.2"
+  }
+}
