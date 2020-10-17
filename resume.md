@@ -2,8 +2,9 @@
 
 ## 基本情報
 
-| Name    | 谷口幸宏                                          |
+| 氏名    | 谷口幸宏                                          |
 | ---     | ---                                               |
+| Blog    | [nas wetware](https://nasjp.github.io/)           |
 | GitHub  | [@nasjp](https://github.com/nasjp)                |
 | LAPRAS  | [プロフィール](https://lapras.com/public/MGUF3UI) |
 | Qiita   | [@\_nas](https://qiita.com/_nas)                  |
